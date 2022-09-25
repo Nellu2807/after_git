@@ -24,3 +24,10 @@ li{
 p{
     padding: 20px;
 }
+img{
+    width: 300px;
+    transition: all 3s ease;
+}
+img:hover{
+    transform: rotate(10deg);
+}
